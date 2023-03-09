@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
+
 
 
 tes feature b stash apply
-=======
 tes feature b
->>>>>>> Stashed changes
+
